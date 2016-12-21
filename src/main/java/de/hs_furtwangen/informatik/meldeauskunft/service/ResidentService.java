@@ -8,6 +8,7 @@ import de.hs_furtwangen.informatik.meldeauskunft.domain.Resident;
  * @author Stefan Betermieux
  */
 public interface ResidentService {
+	/hhshd
 
   Resident getUniqueResident(Resident filterResident) throws ResidentServiceException;
 
